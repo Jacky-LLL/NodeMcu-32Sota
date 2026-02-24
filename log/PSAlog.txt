@@ -1,5 +1,0 @@
-2026-02-24 12:44:30Update OK Version:1
-2026-02-24 12:45:33Update Fail Version:2
-2026-02-24 12:46:36Update OK Version:3
-2026-02-24 12:47:39Update Fail Version:4
-2026-02-24 12:49:04 Update OK Version:1
